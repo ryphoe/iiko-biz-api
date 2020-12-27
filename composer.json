@@ -2,7 +2,7 @@
     "name": "ryphoe/iiko-biz-api",
     "description": "A wrapper for iiko biz API",
     "keywords": ["iiko", "iiko-biz", "php"],
-    "homepage": "http://gitlab.oho.sytes.net/andriymiz/iiko-biz-api",
+    "homepage": "http://gitlab.oho.sytes.net/ryphoe/iiko-biz-api",
     "license": "MIT",
     "authors": [
         {
